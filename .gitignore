@@ -1,0 +1,10 @@
+# Build/IDE outputs
+*.elf
+*.bin
+*.map
+*.o
+*.obj
+.vscode/
+build/
+*.log
+# keep original photos when explicitly imported; do NOT ignore photos/
